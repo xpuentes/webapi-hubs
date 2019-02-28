@@ -24,7 +24,9 @@
   },
   "homepage": "https://github.com/LambdaSchool/webapi-hubs#readme",
   "devDependencies": {
-    "nodemon": "^1.18.9"
+    "nodemon": "^1.18.10"
   },
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
